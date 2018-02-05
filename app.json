@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "name":"Tip",
+    "version":"1.0.0",
+    "slug":"tip",
+    "ios":{
+      "bundleIdentifier":"com.mei"
+    },
+    "android":{
+      "package":"com.mei"
+    }
+  }
+}
